@@ -4,7 +4,8 @@ WHO वेबशाइट गेजेरजों आरो जायगान�
 
  Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. COVID-19 is still affecting mostly people in China with some outbreaks in other countries. Most people who become infected experience mild illness and recover, but it can be more severe for others. Take care of your health and protect others by doing the following:
 
-## Wash your hands frequently
+## आखायखौ थाब थाब सुना ला
+समानै आरो मोजांयै 
 Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
 
 **Why?** Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.
